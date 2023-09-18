@@ -1,0 +1,2 @@
+http://backend.course#Wexler763
+http://backend.course?name=%22Danylo%20Karpenko%22&github_name=Wexler763&group=%22%D0%A4%D0%B5%D1%96-23c%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
